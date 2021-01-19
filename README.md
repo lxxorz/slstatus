@@ -1,0 +1,2 @@
+# slstatus
+status bar
